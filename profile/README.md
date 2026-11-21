@@ -31,6 +31,7 @@
 
 ### Core Repositories & Initiatives
 
+- **[`market-datasets`](https://github.com/sepaulresearch/market-datasets):** Public multi-timeframe empirical OHLCV datasets (XAU/USD `M1`–`H1`, BTC/USD `M1`) from Raw-Spread ECN/STP OTC execution feeds, with SHA-256 verification and `CC BY 4.0` licensing.
 - **[`research-core`](https://github.com/sepaulresearch/research-core):** Proprietary mathematical formalisms, Lyapunov/Kramers drift estimators, LightGBM/ONNX kinematic manifolds, and empirical working paper manuscripts.
 - **[`sepaulresearch.com`](https://github.com/sepaulresearch/sepaulresearch.com):** Web presentation layer featuring real-time continuous numerical integration of the 3D Lorenz Attractor dynamical system.
 
